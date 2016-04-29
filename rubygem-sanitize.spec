@@ -4,7 +4,7 @@
 #
 Name     : rubygem-sanitize
 Version  : 4.0.0
-Release  : 6
+Release  : 7
 URL      : ttps://rubygems.org/downloads/sanitize-4.0.0.gem
 Source0  : ttps://rubygems.org/downloads/sanitize-4.0.0.gem
 Summary  : No detailed summary available
